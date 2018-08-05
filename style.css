@@ -1,0 +1,28 @@
+*{margin:0; text-decoration: none;
+}
+
+h1 {
+  font-size:50px ;
+  font-family: "돋움";
+  text-align: center;
+  border: 50px solid skyblue;
+  background-color: skyblue;
+}
+
+nav{
+  height: 450px;
+  width: 25%;
+  float:left;
+  border-right: 1px solid gray;
+}
+
+article {
+  height: 450px;
+  width:74%;
+  float:right;
+}
+
+body{
+  background-image: url(https://t1.daumcdn.net/cfile/tistory/221E0848546AF9C228);
+
+}
